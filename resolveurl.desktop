@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=resolveurl
+Exec=qmlscene $@ Main.qml
+Icon=resolveurl.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

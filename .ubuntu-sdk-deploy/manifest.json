@@ -1,0 +1,17 @@
+{
+    "name": "resolveurl.liu-xiao-guo",
+    "description": "description of resolveurl",
+    "architecture": "all",
+    "title": "resolveurl",
+    "hooks": {
+        "resolveurl": {
+            "apparmor": "resolveurl.apparmor",
+            "desktop":  "resolveurl.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
